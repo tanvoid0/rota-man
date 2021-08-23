@@ -7,4 +7,9 @@
 # Issues
 none
 
-# Incomplete App, Need to develop in future
+# <span style="color:red">**Incomplete App**</span>
+- Not planning to develop
+
+
+# Preview
+![imgur](https://i.imgur.com/PscaBjd.png)
